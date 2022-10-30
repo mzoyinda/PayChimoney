@@ -91,7 +91,7 @@ const PayOut = () => {
               showConfirmButton: false 
             }).then(() => {
               console.log('triggered redirect here');
-              // window.location.href = response.data.data.paymentLink;
+              window.location.href = response.data.data.paymentLink;
             });         
             setReceiver({
               email: "",

@@ -1,7 +1,7 @@
 # Chimoney-Initiate-Airtime
 Initiate and Payout Chimoney using chiconnect api
 
-view the deployed project [here](https://chimoney-payout-airtime.vercel.app/)
+view the deployed project [here](https://pay-chimoney.vercel.app/)
 
 ## Getting Started with Chimoney-Redeem-Airtime Project
 Run the following commands in the project directory
